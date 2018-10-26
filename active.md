@@ -18,7 +18,7 @@ REG DELETE HKEY_CURRENT_USER\Software\NetSarang /f
 127.0.0.1 www.netsarang.co.kr
 127.0.0.1 sales.netsarang.com
 ```
-5、使用 Xmanager-keygen 生成序列号。
+5、使用 Xmanager-keygen 生成序列号。地址：DoubleLabyrinth/Xmanager-keygen
 使用 Python 运行文件即可生成
 我的生成：171215-116004-999726
 然后使用该序列号安装注册版 Xmanager Power Suit
